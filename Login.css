@@ -1,0 +1,14 @@
+.color {
+    color: #9582E6 !important;
+}
+
+.backColor {
+    background-color: #EDF5FC !important;
+}
+
+.imageBackColor {
+    background-color: #9582E6 !important;
+}
+.Alert{
+    display: none;
+}

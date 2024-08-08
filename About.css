@@ -1,0 +1,19 @@
+.textcolor {
+    color: #9582E6 !important;
+}
+
+.backx {
+    background-color: #EDF5FC !important;
+}
+
+.font {
+    font-size: 17px !important;
+}
+
+.ho:hover {
+    background-color: #21DBDB !important;
+
+    .textcolor {
+        color: white !important;
+    }
+}

@@ -1,0 +1,13 @@
+.contain {
+    background-image: url('../../images/635ac8937fca165f43817e8c_horizontal\ \(63\).svg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: inherit;
+}
+.stopbtn{
+    display: none;
+}
+
+.Alert{
+    display: none;
+}

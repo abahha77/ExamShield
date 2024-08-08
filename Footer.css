@@ -1,0 +1,17 @@
+.backcolor {
+    background-color: #EDF5FC !important;
+}
+.textcolor{
+    color: #9582E6 !important;
+}
+
+.imagewidth {
+    width: 50px !important;
+}
+
+.hov1:hover{
+    color:#9582E6 !important
+}
+.textcolor:hover{
+    color:#21DBDB !important;
+}
